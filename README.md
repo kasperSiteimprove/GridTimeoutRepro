@@ -1,5 +1,5 @@
 # GridTimeoutRepro
-A little program that puts some load on a v4 Selenium grid
+A little program that puts some load on a v4 Selenium grid. Based on .Net 5 and tested on Windows 10 and WSL2/Ubuntu 20.04. 
 
 Run `dotnet build` to restore
 
